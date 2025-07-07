@@ -36,33 +36,33 @@ The dataset contains information scraped from Amazon product pages; it contains:
  ## Skills/ Concepts Demonstrated
  I looked into the data set and the data cleaning process was completed,
  
-Removing Duplicates
+- Removing Duplicates
 
-Handling Missing Values
+ - Handling Missing Values
 
-Standardizing Formats
+ - Standardizing Formats
 
-Cleaning Text Data
+- Cleaning Text Data
 
-Data Validation
+- Data Validation
 
-Autofill
+- Autofill
 
-Conditional Formatting
+- Conditional Formatting
 
 #### Analysis task
 
-Pivot tables creation
+- Pivot tables creation
 
-sorting and filtering
+- sorting and filtering
 
-Statistical Functions
+- Statistical Functions
 
-Conditional Formatting
+- Conditional Formatting
 
-Charts
+- Charts
 
-Analyze Data
+- Analyze Data
 
 I was able to perform text cleaning on the issues of long names of products and category names of the name and category of product columns. I splinted the name and category column into separate columns based on delimiters. I used functions like UPPER, LOWER, PROPER, and TRIM to standardize the text cases and remove extra spaces.  I also ensured numbers are in the correct format using “Format cells”.
  Organized and prepared the dataset for analysis and decision making.
