@@ -33,6 +33,28 @@ The dataset was given by the DSA Team.
 The dataset contains information scraped from Amazon product pages; it contains:
 
  • Product details: name, category, price, discount, and ratings • Customer engagement: user reviews, titles, and content • Each row represents a unique product, with aggregated reviewer data stored as comma-separated values Total Records: 1,465 Total Fields: 16 columns. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
  ## Skills/ Concepts Demonstrated
  I looked into the data set and the data cleaning process was completed,
  
@@ -74,7 +96,7 @@ Utilized text functions (e.g., TRIM, CONCATENATE) to manipulate and analyzed the
 #### Dashboard Creation:
 I created a separate sheet for my dashboard and designed its layout, incorporating charts and visualizations that effectively represent the dataset and asked questions. Finally, I linked my created charts and data to the source data and customize the dashboard's appearance.
 Considered Slicers to filter data and make the dashboard interactive.
-## Conclusions
+## Conclusions     [My Excel DSA Project.xlsx](https://github.com/user-attachments/files/21104942/My.Excel.DSA.Project.xlsx)
 #### Product Improvement:
 Based on the customer reviews, customers needs are centered on product quality, discounts and speed of deliverings.
 #### Marketing Strategies:
