@@ -32,19 +32,21 @@ Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash 
 The dataset was given by the DSA Team.
 The dataset contains information scraped from Amazon product pages; it contains:
 
- • Product details: name, category, price, discount, and ratings • Customer engagement: user reviews, titles, and content • Each row represents a unique product, with aggregated reviewer data stored as comma-separated values Total Records: 1,465 Total Fields: 16 columns. 
+ • Product details: name, category, price, discount, and ratings • Customer engagement: user reviews, titles, and content • Each row represents a unique product, with aggregated reviewer data stored as comma-separated values Total Records: 1,465 Total Fields: 16 columns.
+ #### Original Excel Table
+
+![Screenshot 2025-07-07 163838](https://github.com/user-attachments/assets/c8bc527b-49ea-4634-aff5-bf5f9c115cfc)
 
 
 
 
+#### Table After Cleaning
+![Screenshot 2025-07-07 165357](https://github.com/user-attachments/assets/e979c041-f92c-42cf-bf0f-3d9381416d50)
 
 
 
-
-
-
-
-
+#### E-commerce Excel Dashboard
+![Screenshot 2025-07-07 164009](https://github.com/user-attachments/assets/69546c73-8ec0-4f14-9fb1-65741bfbe3a3)
 
 
 
@@ -96,16 +98,40 @@ Utilized text functions (e.g., TRIM, CONCATENATE) to manipulate and analyzed the
 #### Dashboard Creation:
 I created a separate sheet for my dashboard and designed its layout, incorporating charts and visualizations that effectively represent the dataset and asked questions. Finally, I linked my created charts and data to the source data and customize the dashboard's appearance.
 Considered Slicers to filter data and make the dashboard interactive.
-## Conclusions     [My Excel DSA Project.xlsx](https://github.com/user-attachments/files/21104942/My.Excel.DSA.Project.xlsx)
-#### Product Improvement:
-Based on the customer reviews, customers needs are centered on product quality, discounts and speed of deliverings.
-#### Marketing Strategies:
-Optimizing website and content for search engines to improve visibility and attract traffic.  Adding new functionalities or upgrading existing ones can enhance the value proposition and attract a wider user base. 
-#### Customer Engagement:
-Creating a personalized experience for each customer, demonstrating that their individual needs are valued. 
-Paying close attention to customer reviews, both positive and negative, and using it to improve products and services. 
+## Conclusions     
+#### Discount Insights
+•	Average discount percentages vary significantly by category.
+A few categories (e.g., electronics or accessories) offer above-average discounts
+
+#### Product Distribution
+ •	Certain categories dominate in terms of product count, suggesting market saturation.
+•	Less-populated categories may represent opportunity zones for new sellers. 
+
+#### Rating Distribution
+•	Most products are rated between 3.5 and 4.5, with very few below 3.0 — a sign of review inflation or product consistency.
+•	Products with the highest number of reviews often correlate with the highest ratings, highlighting customer trust and quality.
+
+#### Potential Revenue
+•	Categories with high product prices and large review counts showed the highest potential revenue.
+•	Calculated as Actual Price × Review Count, this metric highlighted areas with the best sales-performance outlook.
+
+####	Price Band Distribution
+•	Majority of products fall within the ₹200–₹500 range.
+#### Analyzing the Relationship Between Discount Levels and Product Ratings [My Excel DSA Project.xlsx](https://github.com/user-attachments/files/21104942/My.Excel.DSA.Project.xlsx)
+
+
 ## Recommendations 
-Given the potentiality of profit, Amazon should focus on customer reviews to refine product quality, improve customer experience in speedy deliveries and stay up-to-date with latest trends.
+Given the potentiality of profit, Amazon should focus on customer reviews to refine product quality, improve customer experience in discounts offering and stay up-to-date with latest trends.
+
+#### Learning Outcome
+•	Gained experience with real-world Excel data analysis
+•	Improved storytelling with dashboards
+•	Learned to uncover actionable insights using data
+
+#### Disclaimer:
+
+This dataset was provided by Digital Skillup Africa (DSA) for academic training and is not sourced from real Amazon sites.
+
 
 
 
